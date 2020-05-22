@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "tiger": [
+    {
+      "id": 1, 
+      "name" : "사과"
+    },
+    {
+      "id": 2,
+      "name": "바나나"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
